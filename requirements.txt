@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+transformers
+scikit-learn
+joblib
+torch
